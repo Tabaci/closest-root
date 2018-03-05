@@ -1,20 +1,24 @@
 {
   "name": "closest-root",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows the user to locate the root directory, of a Node application set up using npm, from a specified directory by traversing upwards until the root is located.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }, 
+  },
   "repository": {
-  	"type": "git", 
-  	"url": "https://github.com/Tabaci/closest-root.git"
-  }, 
+    "type": "git",
+    "url": "https://github.com/Tabaci/closest-root.git"
+  },
   "bugs": {
-  	"url": "https://github.com/Tabaci/closest-root/issues"
-  }, 
-  "keywords": ["find", "root", "locate"], 
+    "url": "https://github.com/Tabaci/closest-root/issues"
+  },
+  "keywords": [
+    "find",
+    "root",
+    "locate"
+  ],
   "author": "Alexander Hållenius",
-  "license": "ISC", 
+  "license": "ISC",
   "homepage": "https://github.com/Tabaci/closest-root"
 }

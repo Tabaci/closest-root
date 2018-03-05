@@ -25,7 +25,7 @@ $ npm install closest-root
 ## Usage
 
 ```javascript
-let rootDirectory = require('closest-root')(__dirname)
+const rootDirectory = require('closest-root')(__dirname)
 
 /* This will output the closest root directory from the current file, as 
  * '__dirname' returns the name of the current directory we are inside.

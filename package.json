@@ -1,6 +1,6 @@
 {
   "name": "closest-root",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Allows the user to locate the root directory, of a Node application set up using npm, from a specified directory by traversing upwards until the root is located.",
   "main": "index.js",
   "scripts": {

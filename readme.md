@@ -1,6 +1,6 @@
 # closest-root
 
-This *npm* module allows for the user to locate the closest *npm* root directory 
+This *npm* module allows the user to locate the closest *npm* root directory 
 from a specified path.
 
 ## Notice

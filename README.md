@@ -16,6 +16,12 @@ of the 'package.json' file will most certainly not change anytime soon. As such,
 it is imperative that any other files that need to be called 'package.json' are 
 moved to another directory, where it does not interfere with this module
 
+## Installation
+
+```
+$ npm install closest-root
+```
+
 ## Usage
 
 ```javascript

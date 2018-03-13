@@ -4,7 +4,7 @@
   "description": "Allows the user to locate the root directory, of a Node application set up using npm, from a specified directory by traversing upwards until the root is located.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "node .\\node_modules\\mocha\\bin\\mocha"
+    "test": "node ./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",

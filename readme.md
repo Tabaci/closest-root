@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Tabaci/closest-root.svg?branch=master)](https://travis-ci.org/Tabaci/closest-root)
+
 # closest-root
 
 This *npm* module allows the user to locate the closest *npm* root directory 

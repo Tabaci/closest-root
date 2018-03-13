@@ -2,9 +2,9 @@
   "name": "closest-root",
   "version": "1.0.2",
   "description": "Allows the user to locate the root directory, of a Node application set up using npm, from a specified directory by traversing upwards until the root is located.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node .\\node_modules\\mocha\\bin\\mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   ],
   "author": "Alexander Hållenius",
   "license": "ISC",
-  "homepage": "https://github.com/Tabaci/closest-root"
+  "homepage": "https://github.com/Tabaci/closest-root",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
 }
